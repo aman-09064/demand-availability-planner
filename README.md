@@ -27,5 +27,5 @@ The model mirrors how ERP systems like SAP SD support availability checks and de
 
 Sample Excel Sheet:
 ## Sample View
-![Order-to-Delivery Preview](demandvsavailability.png)
+![Demand-availability Preview](demandvsavailability.png)
 
