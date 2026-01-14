@@ -25,7 +25,7 @@ It reflects real-world scenarios where customer demand exceeds available invento
 ## Relevance
 The model mirrors how ERP systems like SAP SD support availability checks and delivery confirmations at an operational level.
 
-Sample Excel Sheet:
+
 ## Sample View
 ![Demand-availability Preview](demandvsavailability.png)
 
